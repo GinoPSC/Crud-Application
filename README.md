@@ -3,7 +3,7 @@ CRUD App with Node.js, React.js and MySQL.
 
 Terminal Commands: <br />
 Client: <br />
- > //Create react aplication <br />
+ > //Create react application <br />
  > npx create-react-app . <br />
  > //Install dependencies <br />
  > npm i axios <br />
@@ -11,7 +11,7 @@ Client: <br />
  > npm start <br />
 
 Server:<br />
- > //Create node aplication <br />
+ > //Create node application <br />
  > npm init <br />
  > //Install dependencies <br />
  > npm install express <br />
